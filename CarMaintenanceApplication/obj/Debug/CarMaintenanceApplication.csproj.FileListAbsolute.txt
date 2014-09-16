@@ -1,0 +1,13 @@
+C:\Users\Matthew\Documents\CarMaintenanceApplication\CarMaintenanceApplication\bin\Debug\CarMaintenanceApplication.exe.config
+C:\Users\Matthew\Documents\CarMaintenanceApplication\CarMaintenanceApplication\bin\Debug\CarMaintenanceApplication.exe
+C:\Users\Matthew\Documents\CarMaintenanceApplication\CarMaintenanceApplication\bin\Debug\CarMaintenanceApplication.pdb
+C:\Users\Matthew\Documents\CarMaintenanceApplication\CarMaintenanceApplication\obj\Debug\CarMaintenanceApplication.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\CarMaintenanceApplication\CarMaintenanceApplication\obj\Debug\MainWindow.baml
+C:\Users\Matthew\Documents\CarMaintenanceApplication\CarMaintenanceApplication\obj\Debug\MainWindow.g.cs
+C:\Users\Matthew\Documents\CarMaintenanceApplication\CarMaintenanceApplication\obj\Debug\App.g.cs
+C:\Users\Matthew\Documents\CarMaintenanceApplication\CarMaintenanceApplication\obj\Debug\CarMaintenanceApplication_MarkupCompile.cache
+C:\Users\Matthew\Documents\CarMaintenanceApplication\CarMaintenanceApplication\obj\Debug\CarMaintenanceApplication.g.resources
+C:\Users\Matthew\Documents\CarMaintenanceApplication\CarMaintenanceApplication\obj\Debug\CarMaintenanceApplication.Properties.Resources.resources
+C:\Users\Matthew\Documents\CarMaintenanceApplication\CarMaintenanceApplication\obj\Debug\CarMaintenanceApplication.csproj.GenerateResource.Cache
+C:\Users\Matthew\Documents\CarMaintenanceApplication\CarMaintenanceApplication\obj\Debug\CarMaintenanceApplication.exe
+C:\Users\Matthew\Documents\CarMaintenanceApplication\CarMaintenanceApplication\obj\Debug\CarMaintenanceApplication.pdb
